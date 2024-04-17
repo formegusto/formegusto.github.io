@@ -1,0 +1,14 @@
+# Site Information
+title: Hello, iamformegusto
+email: formegusto@gmail.com
+description: >-
+  Always Live Like An Artist
+baseurl: ""
+url: "https://formegusto.github.io"
+twitter_username: jekyllrb
+github_username: jekyll
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
